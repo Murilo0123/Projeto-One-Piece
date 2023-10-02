@@ -83,6 +83,8 @@ main .personagem .imagem {
     background: #000;
     cursor: pointer;
     border-radius: 50px;
+    width: 90px;
+    height: 90px;
 
 }
 
